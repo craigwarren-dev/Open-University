@@ -1,5 +1,6 @@
 # Open-University
-Projects for Data Analysis course for The Open University
+Projects for Data Analysis course for The Open University.
+ For information about the Open University, please go to [http://www.open.ac.uk/](http://www.open.ac.uk/)
 
 ## Deaths by Tuberculosis
 by Craig Warren 03 August 2019
